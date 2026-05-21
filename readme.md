@@ -1,4 +1,4 @@
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20305180-blue.svg)](https://doi.org/10.5281/zenodo.20305180)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20325427-blue.svg)](https://doi.org/10.5281/zenodo.20325427)
 
 This repository contains the source files, manuscript, and supplemental materials for:
 
@@ -183,7 +183,7 @@ It restores the universe to a state of **coherent, deterministic order**.
 If you use or reference this work, please cite:
 
 > Crago, N. *The SpaceTCO Unified Field Architecture: A Deterministic Geometric Model of Reality.* (2026).
-
+DOI: 10.5281/zenodo.20325427
 ---
 
 ## **Future Work**
