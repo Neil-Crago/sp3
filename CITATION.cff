@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this architecture, framework, or code, please cite it as below."
+authors:
+  - family-names: "Crago"
+    given-names: "Neil"
+    affiliation: "Independent Researcher"
+title: "The SpaceTCO Unified Field Architecture"
+version: 3.0.0
+date-released: "2026-05-21"
+url: "[https://github.com/Neil-Crago/Sp3](https://github.com/Neil-Crago/Sp3)"
+doi: "10.5281/zenodo.???????"
+abstract: >
+  The SpaceTCO Unified Field Architecture presents a deterministic, finite‑resolution model of the universe in which physics, computation, biology, and cosmology emerge from a single geometric substrate. The framework replaces the continuous assumptions of 20th‑century physics with a discrete volumetric scaffold (the 156‑Metric), a modular phase‑space (the M46 manifold), and an elastic continuum (the Generator Field).
+keywords:
+  - Theoretical Physics
+  - Conglomerate Calculus
+  - Discrete Geometry
+  - High-Temperature Superconductivity
+  - Cosmology
+  - Morphological Computation
+license: CC-BY-4.0
